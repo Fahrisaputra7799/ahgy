@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:ujian_morjaah/home_page.dart';
 import 'package:ujian_morjaah/login_page.dart';
 
 class SpalshScreen extends StatelessWidget {

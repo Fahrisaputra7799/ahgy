@@ -5,8 +5,11 @@ class DetailPage extends StatelessWidget {
         DetailPage({super.key});
 
 
-  List notifikasi = [
-    Notif(name: 'Fahri', email: 'Woi', icon: Icon(Icons.delete))
+  final List notifikasi = [
+    Notif(name: 'Fahri', email: 'Woi', icon: Icon(Icons.delete)),
+    Notif(name: 'Fahri', email: 'Woi', icon: Icon(Icons.delete)),
+    Notif(name: 'Fahri', email: 'Woi', icon: Icon(Icons.delete)),
+    Notif(name: 'Fahri', email: 'Woi', icon: Icon(Icons.delete)),
   ];
 
   @override
