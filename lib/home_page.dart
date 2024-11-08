@@ -64,7 +64,7 @@ class HomePage extends StatelessWidget {
                   ),
                   child: const Center(
                     child: Text(
-                      'Waktu',
+                      'Waktu/Jam',
                       style: TextStyle(color: Colors.white),
                     ),
                   ),
